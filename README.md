@@ -1,0 +1,3 @@
+My name is **Jeffrey Russell**. I currently work full-time in the transportation industry and have been for the past 5 years. I pursued my degree in IT to make it easier to career swap into the IT field. Currently, I have a new job offer for an IT Specialist (Enterprise Architect) with the Department of Labor. I am pursuing my Masters in Software Engineering because during my Bachelors in Computer Science, I enjoyed the software classes the most.
+
+I look forward to this class because it is going to involve writing software and getting hands-on experience in architecting a program, which I don't have experience in. This will be a steep learning curve for me, but I look forward to the journey and learning as much as possible!
